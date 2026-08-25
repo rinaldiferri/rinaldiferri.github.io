@@ -16,6 +16,6 @@ main:
     conference: European Labour History Network Conference (16-19 June, Barcelona), 2026.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     page: https://barcelonaelhn.ub.edu
-    bibtex: none
+    bibtex: ./assets/bibtex/ehln2026.txt
     notes: Oral Presentation
     image: ./assets/img/barcelona.jpeg
