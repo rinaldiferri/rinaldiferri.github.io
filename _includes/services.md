@@ -4,12 +4,13 @@
 
 <ul style="margin:0 0 5px;">
 <li>
-  <autocolor>History of Medieval and Early Modern Law, Roma Tre 2025/2026 [ITALIAN]</autocolor> —
+  <autocolor>Storia del diritto</autocolor> —
+  <a href="https://studiumanistici.uniroma3.it/insegnamento-erogato/dipartimento-di-studi-umanistici/lm/2025-2026/storia-e-societa-0580707308500001/fc0a7544-2def-41a0-bf79-fc28f31eff77--20711454/"><autocolor>Official web page</autocolor></a> ·
+  <a href="assets/storia-del-diritto/abstract.txt"><autocolor>abstract</autocolor></a>
   <a href="assets/storia-del-diritto/slides.pdf"><autocolor>slides</autocolor></a> ·
   <a href="assets/storia-del-diritto/maps.pdf"><autocolor>maps</autocolor></a> ·
-  <a href="assets/storia-del-diritto/reading-list.pdf"><autocolor>reading list</autocolor></a>
+  <a href="assets/storia-del-diritto/reading-list.pdf"><autocolor>reading list</autocolor></a> ·
 </li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
