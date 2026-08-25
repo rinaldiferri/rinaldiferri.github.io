@@ -14,7 +14,7 @@ main:
     authors: <strong>Benedetta Rinaldi Ferri</strong>
     conference_short: EHLN
     conference: European Labour History Network Conference (16-19 June, Barcelona), 2026.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    abstrac: ./assets/bibtex/ehln2026_abstract.txt
     page: https://barcelonaelhn.ub.edu
     bibtex: ./assets/bibtex/ehln2026.txt
     notes: Oral Presentation
