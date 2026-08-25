@@ -17,6 +17,7 @@ I am a legal and social historian of early-modern Italy. I am currently a Visiti
 - **[Sept. 2026]** My Visiting Fellowship at UC Berkeley is set to begin.
 - **[Aug. 2026]** My paper on public easements in Italy has been published.
 - **[Jul. 2026]** Awarded the F.N.R.S.-F.R.S. Postdoctoral Fellowship (2026–2029).
+- **[Jun. 2026]** I delivered my paper on domestic labour in late-medieval law at the EHLN Conference in Barcelona.
 - **[May 2026]** Materials for my Legal History course at Roma Tre are now available.
 - **[May 2026]** My paper on public easements in Italy has been accepted to publication with AISU, The City of Lawyers.
 
