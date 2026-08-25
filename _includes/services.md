@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
 <li>
-  <autocolor>Storia del diritto</autocolor> —
+  <autocolor>History of Medieval and Early Modern Law [ITALIAN]</autocolor> —
   <a href="assets/storia-del-diritto/slides.pdf"><autocolor>Slides</autocolor></a> ·
   <a href="assets/storia-del-diritto/maps.pdf"><autocolor>Maps</autocolor></a> ·
   <a href="assets/storia-del-diritto/reading-list.pdf"><autocolor>Reading list</autocolor></a>
