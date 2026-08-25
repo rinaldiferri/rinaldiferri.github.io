@@ -3,6 +3,10 @@
 <h4 style="margin:0 10px 0;">Course Materials</h4>
 
 <ul style="margin:0 0 5px;">
+  <ul style="margin:0 0 20px;">
+  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+</ul>
   <li>
   <autocolor>Storia del diritto medievale e moderno (Roma Tre, 2025/2026) </autocolor> —
   <a href="assets/files/course.txt">abstract</a> ·
