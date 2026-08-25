@@ -4,12 +4,12 @@
 
 <ul style="margin:0 0 5px;">
 <li>
-  <autocolor>Storia del diritto</autocolor> —
+  <autocolor>MEDIEVAL AND EARLY-MODERN LEGAL HISTORY (ITALIAN)</autocolor> —
   <a href="assets/files/course.txt"><autocolor>abstract</autocolor></a> ·
   <a href="https://studiumanistici.uniroma3.it/insegnamento-erogato/dipartimento-di-studi-umanistici/lm/2025-2026/storia-e-societa-0580707308500001/fc0a7544-2def-41a0-bf79-fc28f31eff77--20711454/"><autocolor>syllabus</autocolor></a> ·
-  <a href="assets/storia-del-diritto/slides.pdf"><autocolor>slides</autocolor></a> ·
-  <a href="assets/storia-del-diritto/maps.pdf"><autocolor>maps</autocolor></a> ·
-  <a href="assets/storia-del-diritto/reading-list.pdf"><autocolor>reading list</autocolor></a> ·
+  <a href="assets/files/slides.zip"><autocolor>slides</autocolor></a> ·
+  <a href="assets/files/maps.zip"><autocolor>maps</autocolor></a> ·
+  <a href="assets/files/reading-list.zip"><autocolor>reading list</autocolor></a> ·
 </li>
 </ul>
 
