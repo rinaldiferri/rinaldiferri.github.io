@@ -21,6 +21,8 @@ I am a legal and social historian of early-modern Italy. I am currently a Visiti
 - **[May 2026]** Materials for my Legal History course at Roma Tre are now available.
 - **[May 2026]** My paper on public easements in Italy has been accepted to publication with AISU, The City of Lawyers.
 
+{% include_relative _includes/materials.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
