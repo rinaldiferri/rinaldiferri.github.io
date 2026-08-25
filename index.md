@@ -4,19 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a legal and social historian of early-modern Italy. I am currently a Visiting Fellow at the Robbins Collection, UC Berkeley. Before I became a historian, I trained as a lawyer, namely in civil and labour law.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Legal History:** monastic law, canon law, property law
+- **Early Modern History:** early-modern economy, religious houses, 17th century
+- **Urban History:** Rome, planning law, public easements.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2026]** My Visiting Fellowship at UC Berkeley is set to begin.
+- **[Aug. 2026]** My paper on public easements in Italy has been published.
+- **[Jul. 2026]** Awarded the F.N.R.S.-F.R.S. Postdoctoral Fellowship (2026–2029).
+- **[May 2026]** Materials for my Legal History course at Roma Tre are now available.
+- **[May 2026]** My paper on public easements in Italy has been accepted to publication with AISU, The City of Lawyers.
 
 {% include_relative _includes/publications.md %}
 
