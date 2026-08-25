@@ -15,8 +15,7 @@ main:
     conference_short: EHLN
     conference: European Labour History Network Conference (16-19 June, Barcelona), 2026.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: https://barcelonaelhn.ub.edu/program/
+    bibtex: none
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
