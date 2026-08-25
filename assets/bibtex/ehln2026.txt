@@ -1,0 +1,6 @@
+@misc{rinaldiferri2026ehln,
+  author       = {Rinaldi Ferri, Benedetta},
+  title        = {Re-centering Domestic Work: the Late Medieval Jurists},
+  howpublished = {Panel: "Care work. Counting and understanding care work and domestic work in the societies of the past", European Labour History Network (EHLN) Conference, Barcelona},
+  year         = {2026}
+}
