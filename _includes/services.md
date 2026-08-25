@@ -4,10 +4,10 @@
 
 <ul style="margin:0 0 5px;">
 <li>
-  <autocolor>History of Medieval and Early Modern Law [ITALIAN]</autocolor> —
-  <a href="assets/storia-del-diritto/slides.pdf"><autocolor>Slides</autocolor></a> ·
-  <a href="assets/storia-del-diritto/maps.pdf"><autocolor>Maps</autocolor></a> ·
-  <a href="assets/storia-del-diritto/reading-list.pdf"><autocolor>Reading list</autocolor></a>
+  <autocolor>History of Medieval and Early Modern Law, Roma Tre 2025/2026 [ITALIAN]</autocolor> —
+  <a href="assets/storia-del-diritto/slides.pdf"><autocolor>slides</autocolor></a> ·
+  <a href="assets/storia-del-diritto/maps.pdf"><autocolor>maps</autocolor></a> ·
+  <a href="assets/storia-del-diritto/reading-list.pdf"><autocolor>reading list</autocolor></a>
 </li>
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul>
