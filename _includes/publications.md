@@ -21,7 +21,7 @@
       </div>
    {% if link.english_title %}
     <div class="english-title">
-      <em>{{ link.english_title }}<em>
+      <em>{{ link.english_title }}</em>
     </div>
     {% endif %}
     
