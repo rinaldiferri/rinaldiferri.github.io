@@ -6,7 +6,6 @@ main:
     conference: European Labour History Network Conference (16-19 June, Barcelona), 2026.
     abstract: ./assets/files/2026_barcelona_abstract.txt
     page: https://barcelonaelhn.ub.edu
-    bibtex: ./assets/bibtex/ehln2026.txt
     notes: Oral Presentation  
     
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
