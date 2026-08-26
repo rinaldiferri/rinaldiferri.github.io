@@ -2,6 +2,7 @@ main:
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     english_title: English title goes here
+    English title goes here
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
