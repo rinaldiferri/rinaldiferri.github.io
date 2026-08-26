@@ -20,13 +20,12 @@ main:
     notes: Oral Presentation
     image: ./assets/img/barcelona.jpeg
 
-
-  - title: "Un idiome juridictionnel de la propriété collective: la dédicace des espaces en droit contemporain (Italie, 1971-1988)"
-    authors: <strong>Benedetta Rinaldi Ferri</strong>
-    conference_short: Territory(ies)
-    conference: Doctoral Conference "Territory(ies): notion, limits and extensions", Lille, 14-15 november 2025.
-    abstract: ./assets/files/2025_lille_abstract.txt
-    page: https://chj-cnrs.univ-lille.fr/detail-event/territoires-notion-limites-extensions
-    bibtex: ./assets/bibtex/2026_lille_bibtex.txt
-    notes: Oral Presentation
-    image: ./assets/img/barcelona.jpeg
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
