@@ -19,7 +19,6 @@ I am a legal and social historian of early-modern Italy. I am currently a Visiti
 - **[Jul. 2026]** Appointed as an F.R.S.-F.N.R.S. Postdoctoral Researcher (2026–2029).
 - **[Jun. 2026]** I delivered my paper on domestic labour in late-medieval law at the EHLN Conference in Barcelona [[abstract](/assets/files/2026_barcelona_abstract.txt)].
 - **[May 2026]** Materials from my Legal History course at Roma Tre are now available.
-- **[May 2026]** My paper on public easements in Italy has been accepted to publication with AISU, The City of Lawyers.
 
 {% include_relative _includes/publications.md %}
 
