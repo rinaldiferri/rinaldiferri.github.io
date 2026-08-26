@@ -595,3 +595,24 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+/* Publication spacing */
+.publications .bibliography > li {
+  margin-bottom: 20px;
+}
+
+.publications .bibliography > li:last-child {
+  margin-bottom: 0;
+}
+
+.publications .pub-row {
+  align-items: flex-start;
+}
+
+.publications .title,
+.publications .english-title,
+.publications .author,
+.publications .periodical,
+.publications .links {
+  margin-bottom: 0;
+}
