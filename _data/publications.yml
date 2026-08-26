@@ -39,7 +39,7 @@ main:
     course: History of Medieval and Modern Law [Storia del diritto medievale e moderno], directed by prof. Sandro Notari. Università di Urbino, Dipartimento di Giurisprudenza - 16 April 2026, Urbino, Italy.
     abstract: https://rinaldiferri.github.io/assets/files/2026_urbino_abstract.txt
     notes: Lecture
-      - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     english_title: English title goes here
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
