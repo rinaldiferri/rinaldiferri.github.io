@@ -10,6 +10,6 @@
   <a href="assets/files/maps.zip">maps</a> ·
   <a href="assets/files/reading list.zip">reading list</a></li>
   <li><autocolor> Autorità signorile e fonti del diritto (Urbino, 16 aprile 2026) </autocolor> —
-  <a href="assets/files/2026_urbino_abstract.txt">abstract</a> ·
+  <a href="assets/files/2026_urbino_abstract.pdf">abstract</a> ·
   <a href="assets/files/2026_urbino_map.pdf">map</a></li>
 </ul>
