@@ -1,35 +1,35 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    english_title: English title goes here
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    notes: Early Accept
-  
+  - title: "Continual Learning for Abdominal Multi-Organ and Tumor Segmentation"
+    english_title: "English title goes here"
+    authors: "Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)"
+    conference_short: "MICCAI"
+    conference: "International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023."
+    pdf: "https://arxiv.org/pdf/2306.00988.pdf"
+    code: "https://github.com/MrGiovanni/ContinualLearning"
+    bibtex: "https://bib.yliu.me/MICCAI23.txt"
+    notes: "Early Accept"
+
   - title: "Re-centering Domestic Work: the Late Medieval Jurists"
-    authors: <strong>Benedetta Rinaldi Ferri</strong>
-    conference_short: EHLN
-    conference: European Labour History Network Conference (16-19 June, Barcelona), 2026.
-    abstract: ./assets/files/2026_barcelona_abstract.pdf
-    page: https://barcelonaelhn.ub.edu
-    notes: Oral Presentation  
-      
+    authors: "<strong>Benedetta Rinaldi Ferri</strong>"
+    conference_short: "EHLN"
+    conference: "European Labour History Network Conference (16-19 June, Barcelona), 2026."
+    abstract: "./assets/files/2026_barcelona_abstract.pdf"
+    page: "https://barcelonaelhn.ub.edu"
+    notes: "Oral Presentation"
+
   - title: "Autorità signorile e fonti del diritto. Le «Constitutiones appellationum» di Antonio, Guidantonio e Federico di Montefeltro (Urbino, 1384-1559)"
-    english_title: "The Lord and the Law : The Constitutiones appellationum of Antonio, Guidantonio, and Federico di Montefeltro (Urbino, 1384–1559)" 
-    authors: <strong>Benedetta Rinaldi Ferri</strong>
-    conference_short: LEGAL HISTORY
-    conference: Corso di Storia del diritto medievale e moderno del prof. Sandro Notari, Università di Urbino, Dipartimento di Giurisprudenza, 2026.
-    abstract: https://rinaldiferri.github.io/assets/files/2026_urbino_abstract.pdf
-    notes: Lecture
-    
+    english_title: "The Lord and the Law: The Constitutiones appellationum of Antonio, Guidantonio, and Federico di Montefeltro (Urbino, 1384–1559)"
+    authors: "<strong>Benedetta Rinaldi Ferri</strong>"
+    conference_short: "LEGAL HISTORY"
+    conference: "Corso di Storia del diritto medievale e moderno del prof. Sandro Notari, Università di Urbino, Dipartimento di Giurisprudenza, 2026."
+    abstract: "https://rinaldiferri.github.io/assets/files/2026_urbino_abstract.pdf"
+    notes: "Lecture"
+
   - title: "Un idiome juridictionnel de la propriété collective: la dédicace des espaces en droit contemporain (Italie, 1971-1988)"
     english_title: "A Judicial Idiom of Collective Property: The Dedication of Spaces in Contemporary Law (Italy, 1971–1988)"
-    authors: <strong>Benedetta Rinaldi Ferri</strong>
-    conference_short: TERR
+    authors: "<strong>Benedetta Rinaldi Ferri</strong>"
+    conference_short: "TERR"
     conference: "Doctoral Conference \"Territory(ies): notion, limits and extensions\", 2025."
     abstract: "https://rinaldiferri.github.io/assets/files/2025_lille_abstract.pdf"
     page: "https://chj-cnrs.univ-lille.fr/detail-event/territoires-notion-limites-extensions"
