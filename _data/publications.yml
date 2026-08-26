@@ -2,7 +2,6 @@ main:
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     english_title: English title goes here
-    English title goes here
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
@@ -29,9 +28,9 @@ main:
     bibtex: ./assets/bibtex/ehln2026.txt
     notes: Oral Presentation
     
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
+  - title: Autorità signorile e fonti del diritto. Le «Constitutiones appellationum» di Antonio, Guidantonio e Federico di Montefeltro (Urbino, 1384-1559)
+    english_title: The Lord and the Law: The Constitutiones appellationum of Antonio, Guidantonio, and Federico di Montefeltro (Urbino, 1384–1559) 
+    authors: Benedetta Rinaldi Ferri
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
