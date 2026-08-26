@@ -615,3 +615,28 @@ footer {
 .publications .links {
   margin-bottom: 0;
 }
+
+.publications .publication-item {
+  margin: 0 0 25px 0;
+  padding: 0;
+}
+
+.publications .publication-item:last-child {
+  margin-bottom: 0;
+}
+
+.publications .publication-item .pub-row {
+  margin: 0;
+  padding: 0;
+}
+
+.publications .publication-item .title,
+.publications .publication-item .english-title,
+.publications .publication-item .author,
+.publications .publication-item .periodical,
+.publications .publication-item .links {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
