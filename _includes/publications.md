@@ -19,12 +19,19 @@
       <div class="title">
         <a href="{{ link.pdf }}">{{ link.title }}</a>
       </div>
-    {% if link.english_title %}
+   {% if link.english_title %}
     <div class="english-title">
-      <em>Englis title: {{ link.english_title }}</em>
+      <em>English title: {{ link.english_title }}</em>
     </div>
     {% endif %}
-      <div class="author">{{ link.authors }}</div>
+    
+    {% if link.course %}
+    <div class="course">
+      Course: {{ link.course }}
+    </div>
+    {% endif %}
+    
+    <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
