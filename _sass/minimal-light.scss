@@ -595,17 +595,26 @@ footer {
   display:none;
   font-family: monospace;
 }
-
+/* Fix publication spacing */
 .publications .bibliography {
-  margin-bottom: 0;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 .publications .bibliography > li {
-  margin-bottom: 20px;
+  display: block;
+  margin: 0 0 25px 0 !important;
+  padding: 0 !important;
 }
 
 .publications .bibliography > li:last-child {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
+}
+
+.publications .pub-row {
+  display: flex;
+  align-items: flex-start;
+  margin: 0 !important;
 }
 
 .publications .title,
@@ -613,30 +622,6 @@ footer {
 .publications .author,
 .publications .periodical,
 .publications .links {
-  margin-bottom: 0;
-}
-
-.publications .publication-item {
-  margin: 0 0 25px 0;
-  padding: 0;
-}
-
-.publications .publication-item:last-child {
-  margin-bottom: 0;
-}
-
-.publications .publication-item .pub-row {
-  margin: 0;
-  padding: 0;
-}
-
-.publications .publication-item .title,
-.publications .publication-item .english-title,
-.publications .publication-item .author,
-.publications .publication-item .periodical,
-.publications .publication-item .links {
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-top: 0;
-  padding-bottom: 0;
+  margin: 0 !important;
+  padding: 0 !important;
 }
