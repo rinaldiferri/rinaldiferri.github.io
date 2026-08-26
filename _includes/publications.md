@@ -19,9 +19,9 @@
       <div class="title">
         <a href="{{ link.pdf }}">{{ link.title }}</a>
       </div>
-    {% if link.translated_title %}
-    <div class="translated-title">
-      <em>Translated title: {{ link.translated_title }}</em>
+    {% if link.english_title %}
+    <div class="english-title">
+      <em>Englis title: {{ link.english_title }}</em>
     </div>
     {% endif %}
       <div class="author">{{ link.authors }}</div>
