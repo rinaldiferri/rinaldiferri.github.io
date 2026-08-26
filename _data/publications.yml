@@ -25,8 +25,8 @@ main:
     authors: <strong>Benedetta Rinaldi Ferri</strong>
     conference_short: Territory(ies)
     conference: Doctoral Conference "Territory(ies): notion, limits and extensions", Lille, 14-15 november 2025.
-    abstract: ./assets/files/2026_barcelona_abstract.txt
+    abstract: ./assets/files/2025_lille_abstract.txt
     page: https://chj-cnrs.univ-lille.fr/detail-event/territoires-notion-limites-extensions
-    bibtex: ./assets/bibtex/ehln2026.txt
+    bibtex: ./assets/bibtex/2026_lille_bibtex.txt
     notes: Oral Presentation
-    image: none
+    image: ./assets/img/barcelona.jpeg
