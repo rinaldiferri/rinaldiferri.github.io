@@ -9,7 +9,6 @@ main:
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     notes: Early Accept
-    
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
@@ -18,7 +17,6 @@ main:
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     notes: Early Accept
-
   - title: "Re-centering Domestic Work: the Late Medieval Jurists"
     authors: <strong>Benedetta Rinaldi Ferri</strong>
     conference_short: EHLN
@@ -26,8 +24,7 @@ main:
     abstract: ./assets/files/2026_barcelona_abstract.txt
     page: https://barcelonaelhn.ub.edu
     bibtex: ./assets/bibtex/ehln2026.txt
-    notes: Oral Presentation
-    
+    notes: Oral Presentation  
   - title: Autorità signorile e fonti del diritto. Le «Constitutiones appellationum» di Antonio, Guidantonio e Federico di Montefeltro (Urbino, 1384-1559)
     english_title: The Lord and the Law: The Constitutiones appellationum of Antonio, Guidantonio, and Federico di Montefeltro (Urbino, 1384–1559) 
     authors: Benedetta Rinaldi Ferri
