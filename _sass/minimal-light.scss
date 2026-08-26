@@ -462,7 +462,7 @@ footer {
 
   .pub-row {
   display: flex; 
-  align-items: center;}
+  align-items: flex-start;}
 
   div.wrapper {
     width:auto;
@@ -521,7 +521,7 @@ footer {
 
   .pub-row {
   display: flex; 
-  align-items: center;}
+  align-items: flex-start;}
 
   header {
     padding:0;
@@ -540,7 +540,7 @@ footer {
 
   .pub-row {
     display: block; 
-    align-items: center;}
+    align-items: flex-start;}
 
   body {
     padding:15px;
@@ -596,17 +596,16 @@ footer {
   font-family: monospace;
 }
 
-/* Publication spacing */
+.publications .bibliography {
+  margin-bottom: 0;
+}
+
 .publications .bibliography > li {
   margin-bottom: 20px;
 }
 
 .publications .bibliography > li:last-child {
   margin-bottom: 0;
-}
-
-.publications .pub-row {
-  align-items: flex-start;
 }
 
 .publications .title,
