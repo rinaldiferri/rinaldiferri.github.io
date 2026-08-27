@@ -6,7 +6,7 @@ main:
     conference: "European Labour History Network Conference (16-19 June, Barcelona), 2026."
     abstract: "./assets/files/2026_barcelona_abstract.pdf"
     page: "https://barcelonaelhn.ub.edu"
-    notes: "Oral Presentation"
+    notes: "Oral Presentation" 
 
   - title: "Autorità signorile e fonti del diritto. Le «Constitutiones appellationum» di Antonio, Guidantonio e Federico da Montefeltro (Urbino, 1384-1559)"
     english_title: "The Lord and the Law: The Constitutiones appellationum of Antonio, Guidantonio, and Federico of Montefeltro (Urbino, 1384–1559)"
