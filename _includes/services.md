@@ -1,7 +1,5 @@
 
-## Services
-
-<h4 style="margin:0 10px 0;">Course Materials</h4>
+## Materials
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Storia del diritto medievale e moderno (Roma Tre, 2025/2026) </autocolor> —
