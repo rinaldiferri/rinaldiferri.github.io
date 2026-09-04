@@ -13,7 +13,7 @@
   </li>
 
   <li>
-    <a href="link"><em>Vescovi, poveri e testamenti. Il pater pauperum secondo Baldo degli Ubaldi</em>. In « <em>Quaderni Storici</em> », 2 (2024) [2025], 363-388.</a>
+    <a href="link"><em>Vescovi, poveri e testamenti. Il pater pauperum secondo Baldo degli Ubaldi</em>. In « Quaderni Storici », 2 (2024) [2025], 363-388.</a>
     <u>double-blind peer reviewed<u>
   </li>
 
@@ -23,7 +23,7 @@
   </li>
 
   <li>
-    <a href="link">Alle origini dell’assistenza moderna: prime note in materia di tasse dei <em>poveri (sec. XVI-XVIII)</em>. In « <em>Historia et Ius</em> », 20 (2021), paper 20.</a>
+    <a href="link">Alle origini dell’assistenza moderna: prime note in materia di tasse dei <em>poveri (sec. XVI-XVIII)</em>. In « Historia et Ius », 20 (2021), paper 20.</a>
     <u>peer reviewed<u>
   </li>
 </ul>
