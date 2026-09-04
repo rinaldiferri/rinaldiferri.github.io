@@ -3,8 +3,8 @@
 
 <ul style="margin:0 0 15px;">
   <li>
-  <a href="link"><em>L'Antiquité comme précédent. La jurisprudence des usages publics et de la dédicace à l'âge contemporain
-  (Italie, 1885-2026)</em>, in <em>Proceedings of Territoire(s) : notion, limites et extensions</em>, 14-15 novembre 2025, Lille.</a>
+  <em>L'Antiquité comme précédent. La jurisprudence des usages publics et de la dédicace à l'âge contemporain
+  (Italie, 1885-2026)</em>, in <em>Proceedings of Territoire(s) : notion, limites et extensions</em>, 14-15 novembre 2025, Lille.
   <u>under review</u>
   </li>
 
