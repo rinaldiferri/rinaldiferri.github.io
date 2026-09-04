@@ -22,7 +22,7 @@
   </li>
 
   <li>
-  <a href="link"><em>Le père des pauvres, ou des lieux incertains (Italie, XIVe siècle)</em>. In <em>La représentation. Journées
+  <a href="https://droit.cairn.info/la-representation--9782381940434-page-37?lang=fr&tab=auteurs"><em>Le père des pauvres, ou des lieux incertains (Italie, XIVe siècle)</em>. In <em>La représentation. Journées
   d’études Jean Beauchard – Paolo M. Vecchi</em>, sous la direction de Michel Boudot, Marianne Faure-Abbad et Didier Veillon.
   Poitiers : Presses Universitaires Juridiques de Poitiers, 2024, 37-65.</a>
   <u>peer reviewed</u>
