@@ -16,7 +16,7 @@
   </li>
 
   <li>
-  <a href="link"><em>Vescovi, poveri e testamenti. Il pater pauperum secondo Baldo degli Ubaldi</em>. In <em>Quaderni Storici</em>,
+  <a href="https://www.rivisteweb.it/doi/10.1408/116980?rwSearchIds=[Rivisteweb:ARTICOLO:97824,Rivisteweb:ARTICOLO:97817,Rivisteweb:ARTICOLO:87091,Rivisteweb:ARTICOLO:80375,Rivisteweb:ARTICOLO:97823,Rivisteweb:ARTICOLO:116653,Rivisteweb:ARTICOLO:97821,Rivisteweb:ARTICOLO:35449,Rivisteweb:ARTICOLO:116985,Rivisteweb:ARTICOLO:116980]"><em>Vescovi, poveri e testamenti. Il pater pauperum secondo Baldo degli Ubaldi</em>. In <em>Quaderni Storici</em>,
   2 (2024) [2025], 363-388.</a>
   <u>double-blind peer reviewed</u>
   </li>
