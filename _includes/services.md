@@ -1,7 +1,7 @@
 
 ## Teaching Materials
 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 15px;">
   <li><autocolor>Storia del diritto medievale e moderno (Roma Tre, 2025/2026) </autocolor> —
   <a href="assets/files/2026_LH_outline.pdf">abstract</a> ·
   <a href="https://studiumanistici.uniroma3.it/insegnamento-erogato/dipartimento-di-studi-umanistici/lm/2025-2026/storia-e-societa-0580707308500001/fc0a7544-2def-41a0-bf79-fc28f31eff77--20711454/">syllabus</a> ·
