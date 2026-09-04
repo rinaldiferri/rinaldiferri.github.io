@@ -29,7 +29,7 @@
   </li>
 
   <li>
-  <a href="link"><em>Alle origini dell’assistenza moderna: prime note in materia di tasse dei poveri (sec. XVI-XVIII)</em>. In
+  <a href="https://www.historiaetius.eu/uploads/5/9/4/8/5948821/rinaldi_ferri_20.pdf"><em>Alle origini dell’assistenza moderna: prime note in materia di tasse dei poveri (sec. XVI-XVIII)</em>. In
   <em>Historia et Ius</em>, 20 (2021), paper 20.</a>
   <u>peer reviewed</u>
   </li>
