@@ -29,7 +29,7 @@
   </li>
 
   <li>
-  <a href="link"><em>Alle origini dell’assistenza moderna: prime note in materia di tasse dei <em>poveri (sec. XVI-XVIII)</em>. In
+  <a href="link"><em>Alle origini dell’assistenza moderna: prime note in materia di tasse dei poveri (sec. XVI-XVIII)</em>. In
   <em>Historia et Ius</em>, 20 (2021), paper 20.</a>
   <u>peer reviewed</u>
   </li>
