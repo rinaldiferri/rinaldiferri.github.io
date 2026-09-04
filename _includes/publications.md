@@ -4,7 +4,7 @@
 <ul style="margin:0 0 15px;">
 <ul>
   <li>
-    <a href="link"><em>L'Antiquité comme précédent. La jurisprudence des usages publics et de la dédicace à l'âge contemporain (Italie, 1885-2026)</em>, in <em>Proceedings of Territoire(s) : notion, limites et extensions, 14-15 novembre 2025, Lille</em>.</a>
+    <a href="link"><em>L'Antiquité comme précédent. La jurisprudence des usages publics et de la dédicace à l'âge contemporain (Italie, 1885-2026)</em>, in <em>Proceedings of Territoire(s) : notion, limites et extensions</em>, 14-15 novembre 2025, Lille.</a>
     <u>under review</u>
   </li>
 
@@ -14,7 +14,7 @@
   </li>
 
   <li>
-    <a href="link"><em>Vescovi, poveri e testamenti. Il pater pauperum secondo Baldo degli Ubaldi</em>. In « <em>Quaderni Storici</em> », 2 (2024) [2025], 363-388.</a>
+    <a href="link"><em>Vescovi, poveri e testamenti. Il pater pauperum secondo Baldo degli Ubaldi</em>. In <em>Quaderni Storici</em>, 2 (2024) [2025], 363-388.</a>
     <u>double-blind peer reviewed</u>
   </li>
 
@@ -24,7 +24,7 @@
   </li>
 
   <li>
-    <a href="link">Alle origini dell’assistenza moderna: prime note in materia di tasse dei <em>poveri (sec. XVI-XVIII)</em>. In « <em>Historia et Ius</em> », 20 (2021), paper 20.</a>
+    <a href="link">Alle origini dell’assistenza moderna: prime note in materia di tasse dei <em>poveri (sec. XVI-XVIII)</em>. In <em>Historia et Ius</em>, 20 (2021), paper 20.</a>
     <u>peer reviewed</u>
   </li>
 </ul>
