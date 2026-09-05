@@ -9,7 +9,7 @@
   </li>
 
   <li>
-  <a href="https://rinaldiferri.github.io/assets/files/archive/papers/RINALDIFERRI2026b.pdf"><em>Giurisprudenza e spazi urbani. Note storiche in tema di servitù di uso pubblico (Corte di Cassazione, XIX-XX
+  <a href="https://aisuinternational.org/en/pdfviewer/the-city-of-the-lawyers/?auto_viewer=true#page=&zoom=page-fit&pagemode=none"><em>Giurisprudenza e spazi urbani. Note storiche in tema di servitù di uso pubblico (Corte di Cassazione, XIX-XX
   secc.)</em>. In <em>La città dei giuristi / The City of Lawyers</em>, a cura di Marco Folin e Sara Menzinger. Torino : AISU
   International, 2026, 221-238.</a>
   </li>
