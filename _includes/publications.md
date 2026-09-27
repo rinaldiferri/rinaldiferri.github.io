@@ -4,13 +4,13 @@
 <ul style="margin:0 0 15px;">
   <li>
   <em>L'Antiquité comme précédent. La jurisprudence des usages publics et de la dédicace à l'âge contemporain
-  (Italie, 1885-2026)</em>, in <em>Proceedings of Territoire(s) : notion, limites et extensions</em>, 14-15 novembre 2025,   Lille.
+  (Italie, 1885-2026)</em>, in [Proceedings of Territoire(s) : notion, limites et extensions, 14-15 novembre             2025], Lille.
   <u>under review</u>
   </li>
 
   <li>
   <em>Giurisprudenza e spazi urbani. Note storiche in tema di servitù di uso pubblico (Corte di Cassazione, XIX-XX
-  secc.)</em>. In <em>La città dei giuristi / The City of Lawyers</em>, a cura di Marco Folin e Sara Menzinger. Torino :     AISU International, 2026, 221-238.</a>
+  secc.)</em>. In <em>La città dei giuristi / The City of Lawyers</em>, a cura di Marco Folin e Sara Menzinger. Torino :     AISU International, 2026, 221-238.
   </li>
 
   <li>
