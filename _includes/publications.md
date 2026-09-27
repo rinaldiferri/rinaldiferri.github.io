@@ -15,17 +15,17 @@
 
   <li>
   <em>Vescovi, poveri e testamenti. Il pater pauperum secondo Baldo degli Ubaldi</em>. In <em>Quaderni Storici</em>,
-  2 (2024) [2025], 363-388.</a>
+  2 (2024) [2025], 363-388.
   </li>
 
   <li>
   <em>Le père des pauvres, ou des lieux incertains (Italie, XIVe siècle)</em>. In <em>La représentation. Journées
-  d’études Jean Beauchard – Paolo M. Vecchi</em>, sous la direction de Michel Boudot, Marianne Faure-Abbad et Didier         Veillon. Poitiers : Presses Universitaires Juridiques de Poitiers, 2024, 37-65.</a>
+  d’études Jean Beauchard – Paolo M. Vecchi</em>, sous la direction de Michel Boudot, Marianne Faure-Abbad et Didier         Veillon. Poitiers : Presses Universitaires Juridiques de Poitiers, 2024, 37-65.
   </li>
 
   <li>
   <em>Alle origini dell’assistenza moderna: prime note in materia di tasse dei poveri (sec. XVI-XVIII)</em>. In
-  <em>Historia et Ius</em>, 20 (2021), paper 20.</a>
+  <em>Historia et Ius</em>, 20 (2021), paper 20.
   </li>
   
 </ul>
